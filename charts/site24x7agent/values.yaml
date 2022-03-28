@@ -1,0 +1,3 @@
+deployment:
+  device_key: 06bb765a221c269ba0f9a1ebc22ad259
+  cluster_name: helm-install
