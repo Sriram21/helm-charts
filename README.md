@@ -11,9 +11,9 @@ Please create a Site24x7 account to install the Kubernetes Monitoring Agent. Sig
 How to add this
 ===============
 
-helm repo add site24x7 https://site24x7.github.io/helm-charts
+	helm repo add site24x7 https://site24x7.github.io/helm-charts
 
-helm repo update
+	helm repo update
 
 
 Params
