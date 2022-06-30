@@ -66,7 +66,7 @@ Uninstalling the Chart
 
    To uninstall/delete the <RELEASE_NAME> deployment:
    
-   	helm delete <RELEASE_NAME> --purge
+   	helm delete <RELEASE_NAME>
 
    The above command removes all the Kubernetes components associated with the chart and deletes the release.
 
