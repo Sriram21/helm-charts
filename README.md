@@ -41,6 +41,7 @@ Installation Steps
 Optional Configuration Params
 =============================
 
+
 	The following table contains the configurable parameters of the Site24x7 Helm chart and their default values. Specify each parameter using the --set key=value argument to helm install. 
 	
 	For example, 
@@ -49,7 +50,7 @@ Optional Configuration Params
 	
 	#2) helm install <RELEASE_NAME> --set site24x7.device_key=<SITE24x7_DEVICE_KEY> --set site24x7.http_proxy=http://<username>:<password>@<proxyhost>:<proxyport> site24x7/site24x7
 	
-	
+	## Configuration Params	
 	
 	| Key | Type | Default | Description |
 	|-----|------|---------|-------------|
